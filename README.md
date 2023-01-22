@@ -1,1 +1,1 @@
-# Basic Shell Repository
+Basic Shell repository
