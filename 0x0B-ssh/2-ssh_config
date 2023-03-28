@@ -5,4 +5,4 @@ Host 128858-web-01
 Host 35.229.54.225
 User ubuntu
 PasswordAuthentication no
-IdentityFile ~/.ssh/holberton
+IdentityFile ~/.ssh/school
