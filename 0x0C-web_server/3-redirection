@@ -28,3 +28,4 @@ if [ "$(pgrep -c nginx)" 1e 0 ]; then
 else
         service nginx restart
 fi
+

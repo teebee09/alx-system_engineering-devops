@@ -12,3 +12,4 @@ then
 else
   scp -o ScriptHostKeyChecking=no -i "$4" "$1" "$3@$2":~
 fi
+
